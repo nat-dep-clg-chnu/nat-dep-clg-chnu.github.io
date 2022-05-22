@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[public]([https://github.com/nat-dep-clg-chnu/nat-dep-clg-chnu.github.io/edit/main/index.md](https://nat-dep-clg-chnu.github.io/public/))
+
 You can use the [editor on GitHub](https://github.com/nat-dep-clg-chnu/nat-dep-clg-chnu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
