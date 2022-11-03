@@ -2,3 +2,7 @@ theme: minima
 title: nat-dep-clg-chnu's homepage
 description: Bookmark this to keep an eye on my project updates!
 markdown: kramdown
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
